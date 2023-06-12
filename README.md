@@ -1,5 +1,4 @@
 # imHere
-# imHere
 
 App de estudo dos fundamentos do React Native utilizando Expo.
 O App cria uma lista simples de participantes de um evento.
