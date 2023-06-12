@@ -4,7 +4,7 @@ App de estudo dos fundamentos do React Native utilizando Expo.
 O App cria uma lista simples de participantes de um evento.
 
 Fundamentos -> Criar projeto -> Estrutura de pastas e arquivos.
-                            -> Executar projeto.
+                             -> Executar projeto.
 
             -> Funcionamento do React Native -> Refresh e Reload.
                                              -> JSX.
@@ -29,4 +29,3 @@ Hooks -> Conceito.
       -> Render.
       -> Manipulação de estados.
       -> Estado assíncrono.
-                        
