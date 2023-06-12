@@ -7,20 +7,20 @@ Fundamentos -> Criar projeto -> Estrutura de pastas e arquivos.
                              -> Executar projeto.
 
             -> Funcionamento do React Native -> Refresh e Reload.
-                                             -> JSX.
+                                                -> JSX.
 
             -> Estilizando elementos -> Densidade de pixel.
-                                     -> Style Sheet.
-                                     -> Flex Direction.
+                                          -> Style Sheet.
+                                          -> Flex Direction.
 
             -> Organizando projeto.
             -> Export e Export Default.
             -> Componentes -> TextInput.
-                           -> TouchableOpacity.
-                           -> Prpriedades.
-                           -> StatusBar.
-                           -> Listas -> ScrollView.
-                                     -> FlatList.
+                        -> TouchableOpacity.
+                        -> Prpriedades.
+                        -> StatusBar.
+                        -> Listas -> ScrollView.
+                                    -> FlatList.
                                     
 Hooks -> Conceito.
       -> useState.
